@@ -1,5 +1,6 @@
 # C-Algorithms
   Hello Friends Welcome To C-algorithm Repo....
 
-" Here you'll find all the algorithms and programs basically related to Graph Theory and Other Important Concepts.
+" Here you'll find all the algorithms and programs that are basically related to Graph Theory and Other Important Concepts.
+ 
   Hope It Helps...................
