@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#define XXX 999
+#define XXX 99
 void main()
 {
   int i,j,k,a[100][100],n;
