@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#define INFINITY 999
+#define XXX 999
 void main()
 {
   int i,j,k,a[100][100],n;
@@ -18,7 +18,7 @@ void main()
   for(i=0;i<n;i++){
     for(j=0;j<n;j++){
       for(k=0;k<n;k++){
-        if(a[k][i]!=INFINITY && a[i][j]!=INFINITY)
+        if(a[k][i]!=XXX && a[i][j]!=XXX)
           a[k][j]= (a[k][j] > a[k][i]+a[i][j])?(a[k][i]+a[i][j]):a[k][j];
       }
     }
